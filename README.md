@@ -1,4 +1,4 @@
-# BillionsOfYears
+# Billions of Years
 ## Description
 This Unity game is meant to show major events over the last 13.8 billion years. 
 The file [events.txt](events.txt) contains all the major events being scripted into the game.
