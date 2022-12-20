@@ -7,6 +7,8 @@ The file [events.txt](events.txt) contains all the major events being scripted i
 If you see that any of the events are incorrect please report an issue. 
 If you want to add events simply create a pull request and add those events to [events.txt](events.txt).
 
-
 ## Usage
 All files are free to download and use as long as you credit this.
+
+# Note
+Further install instructions will be loaded here when the game reaches Alpha.
