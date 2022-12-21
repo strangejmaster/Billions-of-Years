@@ -1,3 +1,6 @@
+# - NOTICE
+Currently there is no build file included in this release, a build file will be added later.
+
 # Billions of Years
 ## Description
 This Unity game is meant to show major events over the last 13.8 billion years. 
