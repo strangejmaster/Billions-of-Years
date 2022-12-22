@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class playerMovement : MonoBehaviour
-{
-    public float groundDrag;
-
+{  
     [Header("Movement")]
     public float moveSpeed;
+    public float groundDrag;
     public Transform orientation;
 
     [Header("Ground Check")]
@@ -18,19 +17,20 @@ public class playerMovement : MonoBehaviour
     float horizontalInput;
     float verticalInput;
 
+    bool isAblePlay = true;
+
     Vector3 moveDirection;
 
     Rigidbody rb;
-
+    
     private void Start() {
         rb = GetComponent<Rigidbody>();
         rb.freezeRotation = true;
     }
     private void Update() {
         GetInput();
-        
+        SpeedControl();
         transform.rotation = orientation.rotation;
-
         isGrounded = Physics.Raycast(transform.position, Vector3.down, playerHeight * 0.5f + 0.2f, whatIsGround);
         if(isGrounded)
             rb.drag = groundDrag;
@@ -48,7 +48,14 @@ public class playerMovement : MonoBehaviour
 
     private void MovePlayer() {
         moveDirection = orientation.forward * verticalInput + orientation.right * horizontalInput;
-
         rb.AddForce(moveDirection.normalized * moveSpeed * 10f, ForceMode.Force);
+    }
+
+    private void SpeedControl() {
+        Vector3 flatVel = new Vector3(rb.velocity.x, 0f, rb.velocity.z);
+        if (flatVel.magnitude > moveSpeed) {
+            Vector3 limitedVel = flatVel.normalized * moveSpeed;
+            rb.velocity = new Vector3(limitedVel.x, rb.velocity.y, limitedVel.z);
+        }
     }
 }
