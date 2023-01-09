@@ -1,0 +1,103 @@
+Note: Timeline 1 unit width = 8,625,000 years if 800 units per page represents 13.8/2 billion years.
+This file contains all the events which are in the game. Dates are presented in descending order.
+(24 Events)
+
+Key:
+Bya = Billion Years Ago
+Mya = Million Years Ago
+
+Big Bang (beginning of time)
+Date: 13.8 Bya
+Description: The Big Bang is the currently most accepted theory on how the universe formed, it states that the universe rapidly expanded from a singularity releasing a massive amount of energy. There are multiple sources to explain this theory including Cosmic Background Radiation and the majority of observed galaxies Red-Shifting due to the doppler effect.
+
+The Universe cools to allow matter to form
+Date: 13.7-13.8 Bya (380,000 Years after Big Bang)
+Description Approximentally 380,000 years after the Big Bang the energy (quarks) released cooled enough to form subatomic particles (protons, neutrons, and electrons), these then formed into the simplest atoms, hydrogen and helium.
+
+Oldest Star (Methuselah) was formed 
+Date: 13.65 Bya
+Description: After matter's formation it began to get closer together due to gravity, after around 200 million years the clumps of gas became dense and hot enough to begin nuclear fusion and so the first star was born. 
+
+Our Solar System Forms
+Date: 4.5 Bya
+Description: The Solar System formed from a nebula, a cloud of gas and dust. This nebula slowly began to spin and compress as gravity moved it inwards. At some point the gas and dust began so dense and hot at a point that nuclear fusion started creating our sun.
+
+Billion-Year bombardment in the solar system
+Date: 4 Bya
+Description: The Billion-Year bombardment occured. This is the final stage in Nebular Theory, a theory which describes the formation of our Solar System. The Billion-Year bombardment is thought to have given Earth its water, atmosphere, and tectonics. This is also the stage which gave the moon its craters.
+
+First single-celled organism
+Date: 3.9 Bya //NASA & the Australian Academy of Science report this to be 3.5 Bya but teacher has chosen another source to take precedence
+Description: The first single-celled organism is cyanobacteria, a bacteria which uses photosynthesis and water to produce oxygen.
+
+Earliest fossil record
+Date: 3.6 Bya //UC Berkeley reports this to be ~3.5 Bya but teacher has chosen another source to take precedence
+Description: The earliest fossils were formed out of Precambrian rock. These fossils were of cyanobacteria.
+
+Significant Oxygen First in Atmosphere
+Date: 2.33 Bya
+Description: The GOE (Great Oxidation Event) took place. The oxygen was produced by cyanobacteria, a type of organism which used photosynthesis and water to produce oxygen. This may have started as early as 3 billion years ago but the ocean's other microbes quickly consumed the byproducts. A build up of these cyanobacteria finally occured and caused the GOE.
+
+First land plants
+Date: 700 Mya
+Description: Bryophytes evolved onto land. Bryophytes are a group of plants also known as moss.
+
+Start of supercontinent Pangaea
+Date: 300 Mya
+Description: The Pangaea supercontinent assembled from 3 other continental units. Pangaea
+
+Formation of the Appalachian Mountains
+Date: 270 Mya
+Description:
+
+Greatest Mass Extinction (Permian-Triassic)
+Date: 251 Mya
+Description:
+
+First dinosaurs
+Date: 228 Mya
+Description:
+
+Break-up of Pangaea begins
+Date: 200 Mya
+Description:
+
+Formation of Rocky Mountains
+Date: 75 Mya
+Description:
+
+Dinosaurs go extinct
+Date: 65 Mya
+Description:
+
+Earliest Human ancestors (hominids)
+Date: 4 Mya
+Description:
+
+Oldest Hawaiian Island Forms
+Date: 3.8 Mya
+Description:
+
+Beginning of Ice Ages
+Date: 2.4 Mya
+Description:
+
+Last Ice Age covering Iowa
+Date: 16,000-21,000 Years ago
+Description: 
+
+Mayans create Lunar Calendar (1st recorded study of astronomy)
+Date: 5,136 Years ago
+Description: The Mayans created the Lunar Calendar. This calendar used a base-20 system for time keeping and was extremely accurate. The calendar ended on the 2012 Winter Solstice (December 21st)
+
+1st Geocentric Model of the Solar System
+Date: 2402 Years ago
+Description: The first geocentric model of the Solary System was created by the acient Greeks. Geocentric meaning that the Earth was put at the center of the model while all the other planets in the Solar System orbited us.
+
+1st Heliocentric Model of the Solar System
+Date: 479 Years ago (1543)
+Description: The first heliocentric model of the Solar System was made by Copernicus. The heliocentric model accurately placed the sun at the center of the Solar System differing from the geocentric model where the Earth was at the center of the Solar System.
+
+First human to walk on the moon
+Date: 53 Years ago (1969)
+Description: US astronauts on a NASA shuttle landed on the moon. This was a hisitoric event for science and innovation.

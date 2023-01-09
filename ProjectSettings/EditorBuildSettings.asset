@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Billions-of-Years.unity
     guid: 24ee7bdb8f5956a4d8179d65b8aa54f8
   - enabled: 1
-    path: Assets/Scenes/Events/event1.unity
+    path: Assets/Scenes/Events/event1/event1.unity
     guid: 80d40a9bcfce66b4c859ff38fb7ad7bb
   m_configObjects: {}
