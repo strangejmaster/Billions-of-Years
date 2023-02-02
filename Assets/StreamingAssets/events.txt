@@ -1,0 +1,107 @@
+Note: Timeline 1 unit width = 8,625,000 years if 800 units per page represents 13.8/2 billion years.
+This file contains all the events which are in the game. Dates are presented in descending order.
+(24 Events)
+
+***NOTE***
+IF YOU FIND ANY ERRORS IN THE DATES PLEASE CREATE AN ISSUE AND WE'LL TRY TO RESOLVE IT AS SOON AS POSSIBLE
+PLEASE REMEMBER THAT THESE DATES MAY NOT BE ACCURATE AND TO TAKE MAKE SURE TO THINK CRITICALLY ABOUT EVERYTHING.
+
+Key:
+Bya = Billion Years Ago
+Mya = Million Years Ago
+
+1.) Big Bang (beginning of time)
+Date: 13.8 Bya
+1 Description: The Big Bang is the currently most accepted theory on how the universe formed, it states that the universe rapidly expanded from a singularity releasing a massive amount of energy. There are multiple sources to explain this theory including Cosmic Background Radiation and the majority of observed galaxies Red-Shifting due to the doppler effect.
+
+2.) The Universe cools to allow matter to form
+Date: 13.7-13.8 Bya (380,000 Years after Big Bang)
+2 Description: Approximentally 380,000 years after the Big Bang the energy (quarks) released cooled enough to form subatomic particles (protons, neutrons, and electrons), these then formed into the simplest atoms, hydrogen and helium.
+
+3.) Oldest Star (Methuselah) forms
+Date: 13.65 Bya
+3 Description: After matter's formation it began to get closer together due to the Law of Gravity, after around 200 million years the clumps of gas became dense and hot enough to begin nuclear fusion and so the first star was born.
+
+4.) Our Solar System Forms
+Date: 4.5 Bya
+4 Description: The Solar System formed from a nebula, a cloud of gas and dust. Nebular theory describes the formation of the Solar System. In Nebular theory our Solar System's predecessor nebula slowly began to spin and compress due to the Law of Gravity which says that distance and mass affect gravity, so if as the particles got closer together they exerted more gravity on other particles since their masses were combining. At some point the gas and dust began so dense and hot at a point that nuclear fusion started creating our sun. At this point the the nebula has turned into a star system, in this case our Solar System.
+
+5.) Billion-Year bombardment in the solar system
+Date: 4 Bya
+5 Description: The Billion-Year bombardment occured. This is the final stage in Nebular Theory. The Billion-Year bombardment is thought to have given Earth its water, atmosphere, and tectonics. This is also the stage which gave the moon its craters. The Billion-Year bombardment was a monumentally impo
+
+6.) First single-celled organism
+Date: 3.9 Bya //NASA & the Australian Academy of Science report this to be 3.5 Bya but teacher has chosen another source to take precedence
+6 Description: The first single-celled organism is cyanobacteria, a bacteria which uses photosynthesis and water to produce oxygen.
+
+7.) Earliest fossil record
+Date: 3.6 Bya //UC Berkeley reports this to be ~3.5 Bya but teacher has chosen another source to take precedence
+7 Description: The earliest fossils were formed out of Precambrian rock. These fossils were of cyanobacteria.
+
+8.) Beginning of Ice Ages (Huronian)
+Date: 2.4 Bya
+8 Description: The Huronian Glaciation began. The Huronian Glacitation is commonly confused to be an ice age when in fact it is a period in which multiple ice ages occured. This marks the beginning of ice ages. It closely coincides with the Great Oxidation Event since the ice ages were in part caused by reduction of the greenhouse effect as oxygen increased in the atmosphere.
+
+9.) Significant Oxygen First in Atmosphere
+Date: 2.33 Bya
+9 Description: The GOE (Great Oxidation Event) took place. The oxygen was produced by cyanobacteria, a type of organism which used photosynthesis and water to produce oxygen. This may have started as early as 3 billion years ago but the ocean's other microbes quickly consumed the byproducts. A build up of these cyanobacteria finally occured and caused the GOE.
+
+10.) First land plants
+Date: 700 Mya
+10 Description: Bryophytes evolved onto land. Bryophytes are a group of plants also known as moss.
+
+11.) Formation of the Appalachian Mountains
+Date: 300 - 500 Mya (270 Mya?)
+11 Description: The Appalachian Mountains formed as a result of continents colliding. At their peak they may have had a summit as high as the Himalayas but errosion caused them to greatly decrease in height to a more reasonable amount.
+
+12.) Start of supercontinent Pangaea
+Date: 300 Mya
+12 Description: It is believed that a supercontinent called Pangaea assembled from 3 other contients. This theory was created by Alfred Wegener, the geologist who also created continental drift theory. 
+
+13.) Greatest Mass Extinction (Permian-Triassic)
+Date: 251 Mya
+13 Description: The greatest mass extinction in Earth's history occured. 90% of species went extinct, this including 95% of marine species and 70% of terrestrial species. Research from the University of Washington and Stanford University suggest that the extincition was caused by global warming. As marine animal's metabolism increased and waters warmed the water was unable to hold enough oxygen for survival.
+
+14.) First dinosaurs
+Date: 228 Mya
+14 Description: Dinosaurs appeared in the Triassic period. They evolved from a group of reptiles called the dinosauromorphs. 
+
+15.) Break-up of Pangaea begins
+Date: 200 Mya
+15 Description: Pangaea began to break up. This is explained in Continental Drift Hypothesis, a hypothesis which describes Pangaea breaking apart into chunks and drifting apart due to Tectonic Shift.
+
+16.) Formation of Rocky Mountains
+Date: 75 Mya
+16 Description: The Rocky Mountains began to form. This process contiuned throught he Cenozoic era
+
+17.) Dinosaurs go extinct
+Date: 65 Mya
+17 Description: It is hypothesised in an event called the Cretaceous–Paleogene extinction event (K-Pg) a bolide (bright meteor) impacted the Earth causing mass extinction of all non-avian dinosaurs and other living creatures. The impact itself only caused a small number of the total extinction, many more things triggered by the bolide caused the rest including tsunamis, earthquakes, a global firestorm, and after vaporizing rocks sulphate aerosols would have been released into the atmosphere causing acid rain and ocean acidification. Other aerosols are also thought to have blocked out the sun and reflected solar radiation slowing photosynthesis and creating and plunging the Earth into a winter.
+
+18.) Earliest Human ancestors (hominids)
+Date: 4 Mya
+18 Description: The oldest human ancestors, called hominids, appeared.
+
+19.) Oldest Hawaiian Island Forms
+Date: 3.8 Mya
+19 Description: Volcanism on Kaua‘i Island ended, the arduous process finally came to an end. This leaves it as the oldest Hawaiian island.
+
+20.) Last Ice Age covering Iowa
+Date: 16,000-21,000 Years ago
+20 Description: The last ice age covering Iowa ended. This Ice Age existed in the Des Moines Lobe. 14,000 years ago it reached its farthest point located where modern day Des Moines is. 12,000 years ago the ice sheet was gone.
+
+21.) Mayans create Lunar Calendar (1st recorded study of astronomy)
+Date: 5,137 Years ago
+21 Description: The Mayans created the Lunar Calendar. This calendar used a base-20 system for time keeping and was extremely accurate. The calendar ended on the 2012 Winter Solstice (December 21st)
+
+22.) 1st Geocentric Model of the Solar System
+Date: 2403 Years ago
+22 Description: The first geocentric model of the Solary System was created by the acient Greeks. Geocentric meaning that the Earth was put at the center of the model while all the other planets in the Solar System orbited us.
+
+23.) 1st Heliocentric Model of the Solar System
+Date: 480 Years ago (1543)
+23 Description: The first heliocentric model of the Solar System was made by Copernicus. The heliocentric model accurately placed the sun at the center of the Solar System differing from the geocentric model where the Earth was at the center of the Solar System.
+
+24.) First human to walk on the moon
+Date: 54 Years ago (1969)
+24 Description: US astronauts on a NASA shuttle landed on the moon. This was a hisitoric event for science and innovation.
