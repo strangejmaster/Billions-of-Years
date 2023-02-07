@@ -14,4 +14,73 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Events/event1/event1.unity
     guid: 80d40a9bcfce66b4c859ff38fb7ad7bb
+  - enabled: 1
+    path: Assets/Scenes/Events/event2/event2.unity
+    guid: 1250f32057cfc224880066a342ea3ea8
+  - enabled: 1
+    path: Assets/Scenes/Events/event3/event3.unity
+    guid: 5002d6e1ecf310345a93c63679183471
+  - enabled: 1
+    path: Assets/Scenes/Events/event4/event4.unity
+    guid: cad8a6fb5c73c1b4cbe829d94129add5
+  - enabled: 1
+    path: Assets/Scenes/Events/event5/event5.unity
+    guid: d4944f8913cf6ba4bbb6dafb5a265d2b
+  - enabled: 1
+    path: Assets/Scenes/Events/event6/event6.unity
+    guid: f5654e057b4aca540a645ea8973f803c
+  - enabled: 1
+    path: Assets/Scenes/Events/event7/event7.unity
+    guid: 109fd4da9af924f498148e0be0f9d677
+  - enabled: 1
+    path: Assets/Scenes/Events/event8/event8.unity
+    guid: 7feff5cb4f45aa34bb3a8d51b825a678
+  - enabled: 1
+    path: Assets/Scenes/Events/event9/event9.unity
+    guid: 50340f45351b6dc48b9ce115f14a4380
+  - enabled: 1
+    path: Assets/Scenes/Events/event10/event10.unity
+    guid: af281afbfbb925f43a5a419e8a6d61ca
+  - enabled: 1
+    path: Assets/Scenes/Events/event11/event11.unity
+    guid: 9bbe0fd169ec71547a15e8813bf30731
+  - enabled: 1
+    path: Assets/Scenes/Events/event12/event12.unity
+    guid: 4a2dcd927895cd54c8c74be3db9dc6c2
+  - enabled: 1
+    path: Assets/Scenes/Events/event13/event13.unity
+    guid: e252efa53f2ce2943877cd77430ab69e
+  - enabled: 1
+    path: Assets/Scenes/Events/event14/event14.unity
+    guid: 1c1781e913b5f3540ae3782547013667
+  - enabled: 1
+    path: Assets/Scenes/Events/event15/event15.unity
+    guid: 58c2706332dcd274ba347490d16fc62f
+  - enabled: 1
+    path: Assets/Scenes/Events/event16/event16.unity
+    guid: 693413344f881014c82f8b750862e901
+  - enabled: 1
+    path: Assets/Scenes/Events/event17/event17.unity
+    guid: a535dde6adec2a641bd45fd0dbe282e8
+  - enabled: 1
+    path: Assets/Scenes/Events/event18/event18.unity
+    guid: a2ddc5942a325af41a85a8b5df80630e
+  - enabled: 1
+    path: Assets/Scenes/Events/event19/event19.unity
+    guid: 270848a529dc4e2478d045b6e8584f70
+  - enabled: 1
+    path: Assets/Scenes/Events/event20/event20.unity
+    guid: 9034ffd2290e760439b7e6a5a55c8b4c
+  - enabled: 1
+    path: Assets/Scenes/Events/event21/event21.unity
+    guid: 64a2ad5bf78173447a82c849f87d3deb
+  - enabled: 1
+    path: Assets/Scenes/Events/event22/event22.unity
+    guid: e114c57f18ffee14d822b68a19b6bd01
+  - enabled: 1
+    path: Assets/Scenes/Events/event23/event23.unity
+    guid: 1edbcb7cc2525e7428d7ac76c7122256
+  - enabled: 1
+    path: Assets/Scenes/Events/event24/event24.unity
+    guid: 4394a576de509fe40bf62b4269792b47
   m_configObjects: {}
