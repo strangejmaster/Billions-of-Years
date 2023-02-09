@@ -10,7 +10,13 @@ If you want to add events simply create a pull request and add those events to [
 ## Usage
 All files are free to download and use as long as you credit this, please see the [LICENSE](LICENSE) file for more information.
 
-## Downloading
+# Playing
+There are two main methods to play the game, the first one is playing online and the second is downloading the files locally. Downloading files locally will result in a framerate increase.
+
+## Method 1: Playing online
+If you want to play online you can go to the [itch.io](https://strangejmaster.itch.io/billions-of-years) page or the [simmer.io](https://simmer.io/@strangejmaster/billions-of-years) page.
+
+## Method 2: Downloading (Recommended)
 To download this game with two methods.
 
 &nbsp;&nbsp;Method 1 (Visual): Click on the green \<Code\> button and click Download Zip, use a zip extractor to extract the game files and continue to the final step
